@@ -17,7 +17,7 @@ profanity = pd.read_csv("bad-words.csv")
 
 
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:/Users/User/Downloads/Speech Problems-33dc4e1f765e.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:/Users/User/XYZ.json'
 
 
 # Audio recording parameters
